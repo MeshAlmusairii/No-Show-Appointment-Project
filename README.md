@@ -11,10 +11,15 @@ The data contains 110,527 records of patients that showed or not for the appoint
 
 ## Questions for Analysis
 1- How many patients did show or not for the appointmnet?
+
 2- What is the age distribution of the patients?
+
 3- Does The Gender May Affect If the patient Will Show Up For The Appointment or Not?
+
 4- Does Younger Patients Show Up To The Appointment More Than Older Patients or Not?
+
 5- Does Having A Scholarship Affect If The Patient Will Show For The Appointment or Not?
+
 6- Does Sending an SMS Will Increase The Percentage Of Showing Up To The Appointment?
 
 Finally, I will draw a conclusion.
